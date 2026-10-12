@@ -2,7 +2,7 @@
 
 **Serverless, event-driven remote exam proctoring on AWS: 2 s webcam frame sampling, YOLOv8-nano + Amazon Rekognition inference, and live proctor alerts with evidence.**
 
-> *Placeholder name. Course project for Cloud Architecture Design (BCSE355L).*
+> *Placeholder name. Course project for BCSE355L.*
 
 The system assists human proctors by flagging potentially suspicious visual events (phone in view, multiple people, prolonged head turn, face obstructed) from periodic webcam frames. It does **not** decide whether misconduct occurred; every alert is evidence for a proctor to review.
 
